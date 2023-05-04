@@ -201,3 +201,13 @@ doctype_js = {
 # auth_hooks = [
 #	"masar_msci.auth.validate"
 # ]
+
+fixtures = [
+    {"dt": "Custom Field", "filters": [
+        [
+            "name", "in", [
+				"Payment Entry-paid_from_des"
+                  ]
+        ]
+    ]}
+]
