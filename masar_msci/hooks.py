@@ -206,7 +206,8 @@ fixtures = [
     {"dt": "Custom Field", "filters": [
         [
             "name", "in", [
-				"Payment Entry-paid_from_des"
+				"Payment Entry-paid_from_des",
+                "Item-item_name_ar"
                   ]
         ]
     ]}
