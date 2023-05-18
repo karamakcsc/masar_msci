@@ -207,7 +207,11 @@ fixtures = [
         [
             "name", "in", [
 				"Payment Entry-paid_from_des",
-                "Item-item_name_ar"
+                "Item-item_name_ar",
+                "Purchase Invoice-reference_no",
+                "Purchase Invoice-section_break_vvf62",
+                "Purchase Invoice-reference_date",
+                "Purchase Invoice-comments",
                   ]
         ]
     ]}
